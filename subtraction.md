@@ -6,3 +6,9 @@ example:
 - 6
 -------
   2
+
+Another example
+10
+-5
+-------
+5
