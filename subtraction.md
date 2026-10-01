@@ -12,3 +12,11 @@ Another example
 -5
 -------
 5
+
+example with multiple integers:
+
+  875
+    +
+  567
+______
+1,442
